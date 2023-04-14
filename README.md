@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently studying on **CSE**
 
-- 🌱 I’m currently learning **Web Technology**
+- 🌱 I’m currently learning **Flutter**
 
 - 📫 How to reach me **mirfaris79@gmail.com**
 
