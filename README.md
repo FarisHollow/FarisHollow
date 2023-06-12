@@ -27,4 +27,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=farishollow&show_icons=true&locale=en&layout=compact" alt="farishollow" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=farishollow&show_icons=true&locale=en" alt="farishollow" /></p>
+<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=farishollow&show_icons=true&locale=en" alt="farishollow" /></p> -->
