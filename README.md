@@ -1,18 +1,20 @@
 [![MasterHead](https://static.wikia.nocookie.net/vsbattles/images/c/c0/Nura_image1.gif/revision/latest/scale-to-width-down/250?cb=20190102140222)](hi)
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Hey+there+%F0%9F%91%8B%2C+I'm+Mir+Faris!)](https://git.io/typing-svg)</br>
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=A+responsible+and+stubborn+student)](https://git.io/typing-svg)
-<h1 align="center"> Mir Faris ( ͡~ ͜ʖ ͡°)✊</h1>
+<h1 align="center"> Mir Faris </h1>
 
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/f2/4d/44/f24d44a8c2b2dd3e36a572e0ac635a27.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=farishollow&label=Profile%20views&color=0e75b6&style=flat" alt="farishollow" /> </p>
 
-- 🔭 Lanuages skill on: **Java**, **C#**, **Dart**, **JavaScript**, **C++**, & **Python**
+- 🔭 Lanuages familiarized on: **Java**, **C#**, **Dart**, **JavaScript**, **C++**, & **Python**
 
 - 🌱 Frameworks: **Flutter**, **NestJs** & **NextJs**
 
 - 📫 How to reach me **mirfaris79@gmail.com**
 
-- ⚡ Development skills on: **Web Development**, **App Development**
+- ⚡ Development skills on: **App Development**, **Web Development**
+
+- ⚡ Career Goal: **Software Engineer**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
