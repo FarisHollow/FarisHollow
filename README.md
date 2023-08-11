@@ -6,7 +6,7 @@
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/f2/4d/44/f24d44a8c2b2dd3e36a572e0ac635a27.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=farishollow&label=Profile%20views&color=0e75b6&style=flat" alt="farishollow" /> </p>
 
-- 🔭 Lanuages familiarized on: **Java**, **C#**, **Dart**, **JavaScript**, **C++**, & **Python**
+- 🔭 Familiarized Languages: **Java**, **C#**, **Dart**, **JavaScript**, **C++**, & **Python**
 
 - 🌱 Frameworks: **Flutter**, **NestJs** & **NextJs**
 
