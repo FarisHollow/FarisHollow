@@ -2,8 +2,9 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Hey+there+%F0%9F%91%8B%2C+I'm+Mir+Faris!)](https://git.io/typing-svg)</br>
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=A+responsible+and+stubborn+student)](https://git.io/typing-svg)
 <h1 align="center"> Mir Faris </h1>
-
+<center>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/f2/4d/44/f24d44a8c2b2dd3e36a572e0ac635a27.gif">
+  </center>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=farishollow&label=Profile%20views&color=0e75b6&style=flat" alt="farishollow" /> </p>
 
 - 🔭 Familiarized Languages: **Java**, **C#**, **Dart**, **JavaScript**, **C++**, & **Python**
