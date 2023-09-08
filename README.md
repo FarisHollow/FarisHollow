@@ -1,4 +1,4 @@
-[![MasterHead]([https://static.wikia.nocookie.net/vsbattles/images/c/c0/Nura_image1.gif/revision/latest/scale-to-width-down/250?cb=20190102140222](https://res.cloudinary.com/practicaldev/image/fetch/s--O3hycoaa--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_800/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/j8wo9f1mou6g5469671h.gif))](hi)
+[![MasterHead](https://giphy.com/stickers/hacktiv8-code-error-laptop-Ll22OhMLAlVDb8UQWe))](hi)
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Hey+there+%F0%9F%91%8B%2C+I'm+Mir+Faris!)](https://git.io/typing-svg)</br>
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=A+responsible+and+stubborn+student)](https://git.io/typing-svg)
 <h1 align="center"> Mir Faris </h1>
