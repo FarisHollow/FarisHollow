@@ -1,4 +1,4 @@
-[![MasterHead](https://gifdb.com/images/high/typing-on-computer-zny0u49rxpblwjt6.gif))](hi)
+<center>[![MasterHead](https://gifdb.com/images/high/typing-on-computer-zny0u49rxpblwjt6.gif))](hi)</center>center>
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Hey+there+%F0%9F%91%8B%2C+I'm+Mir+Faris!)](https://git.io/typing-svg)</br>
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=A+responsible+and+stubborn+student)](https://git.io/typing-svg)
 <h1 align="center"> Mir Faris </h1>
