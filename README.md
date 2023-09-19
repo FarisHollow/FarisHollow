@@ -34,6 +34,19 @@
     <a href="https://www.nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.nextjs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="nextjs" width="40" height="40"/> </a>
   
 </p>
+## GitHub Stats
+<p align="center">
+   <table>
+      <tr>
+         <th>Profile stats</th>
+         <th>Language Contribution</th>
+      </tr>
+      <tr>
+         <td><img alt="Mir Faris :: Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/? 
+username=FarisHollow&langs_count=10&theme=tokyonight&layout=compact&hide=html"></td>
+      </tr>
+   </table>
+</p> 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=farishollow&show_icons=true&locale=en&layout=compact" alt="farishollow" /></p>
 
