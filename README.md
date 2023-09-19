@@ -34,17 +34,23 @@
     <a href="https://www.nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.nextjs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="nextjs" width="40" height="40"/> </a>
   
 </p>
-## GitHub Stats
-<p align="center">
+
+<p align="right">
    <table>
       <tr>
          <th>Language Contribution</th>
       </tr>
       <tr>
-         <td><img alt="Mir Faris :: Most used " src="https://github-readme-stats.vercel.app/api/top-langs/?username=FarisHollow&langs_count=10&theme=tokyonight&layout=compact&hide=html "></td>
+         <td><img alt="Mir Faris :: Most used " src="https://github-readme-stats.vercel.app/api/top-langs/?username=FarisHollow&langs_count=10&theme=tokyonight&layout=compact&hide=html">
+         </td>
       </tr>
    </table>
+
+   ![](https://github-readme-streak-stats.herokuapp.com/?user=FarisHollow&theme=dark&hide_border=false)<br/>
+
 </p> 
+
+
 
 
 <!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=farishollow&show_icons=true&locale=en" alt="farishollow" /></p> -->
