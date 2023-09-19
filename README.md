@@ -7,9 +7,9 @@
   </center>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=farishollow&label=Profile%20views&color=0e75b6&style=flat" alt="farishollow" /> </p>
 
-- 🔭 Familiarized Languages: **Java**, **C#**, **Dart**, **JavaScript**, **C++**, & **Python**
+- 🔭 Familiarized Languages: **Java**, **C#**, **Dart**, **JavaScript**, **C++**, **Php** & **Python**
 
-- 🌱 Frameworks: **Flutter**, **NestJs** & **NextJs**
+- 🌱 Frameworks: **Flutter**, **Laravel**, **NestJs** & **NextJs**
 
 - 📫 How to reach me **mirfaris79@gmail.com**
 
@@ -30,7 +30,7 @@
   <a href="https://www.javascript.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
   <a href="https://www.dart.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" alt="dart" width="40" height="40"/> </a>
 
-   <a href="https://www.flutter.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" alt="flutter" width="40" height="40"/> </a>
+   <a href="https://www.flutter.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" alt="flutter" width="40" height="40"/> </a><a href="https://www.laravel.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg" alt="laravel" width="40" height="40"/> </a>
     <a href="https://www.nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.nextjs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="nextjs" width="40" height="40"/> </a>
 </p>
 
