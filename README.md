@@ -41,7 +41,7 @@
          <th>Language Contribution</th>
       </tr>
       <tr>
-         <td><img align="center" alt="Mir Faris :: Most used " src="https://github-readme-stats.vercel.app/api/top-langs/?username=FarisHollow&langs_count=10&theme=tokyonight&layout=compact&hide=html "></td>
+         <td><img alt="Mir Faris :: Most used " src="https://github-readme-stats.vercel.app/api/top-langs/?username=FarisHollow&langs_count=10&theme=tokyonight&layout=compact&hide=html "></td>
       </tr>
    </table>
 </p> 
