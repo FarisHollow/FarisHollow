@@ -41,11 +41,10 @@
          <th>Language Contribution</th>
       </tr>
       <tr>
-         <td><img alt="Mir Faris :: Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FarisHollow&langs_count=10&theme=tokyonight&layout=compact&hide=html"></td>
+         <td><img align="center" alt="Mir Faris :: Most used " src="https://github-readme-stats.vercel.app/api/top-langs/?username=FarisHollow&langs_count=10&theme=tokyonight&layout=compact&hide=html "></td>
       </tr>
    </table>
 </p> 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=farishollow&show_icons=true&locale=en&layout=compact" alt="farishollow" /></p>
 
 <!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=farishollow&show_icons=true&locale=en" alt="farishollow" /></p> -->
