@@ -15,7 +15,6 @@
 
 - ⚡ Development skills on: **App Development**, **Web Development**
 
-- ⚡ Career Goal: **Software Engineer**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
