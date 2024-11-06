@@ -17,9 +17,9 @@
 
 ### 👨‍💻 About Me
 - 🔭 **Familiarized Languages**: Java, C#, Dart, JavaScript, C++, PHP, Python
-- 🌱 **Frameworks**: Flutter, Laravel, NestJS, NextJS
+- 🌱 **Frameworks**: Flutter, Laravel, NestJS, NextJS, FastAPI
 - ⚡ **Development Skills**: App Development, Web Development
-- 📫 **How to reach me**: [mirfaris79@gmail.com](mailto:mirfaris79@gmail.com)
+- 📫 **Reach me at**: [mirfaris79@gmail.com](mailto:mirfaris79@gmail.com)
 
 ---
 
