@@ -1,10 +1,10 @@
 <div align="center">
-  <!-- Animated MasterHead GIF -->
+  <!-- Animated Coding GIF at the Top -->
   <a href="hi">
-    <img src="https://media.tenor.com/7zvhpk6BozEAAAAC/hacker-hoodie.gif" alt="MasterHead GIF" width="200">
+    <img src="https://i.pinimg.com/originals/f2/4d/44/f24d44a8c2b2dd3e36a572e0ac635a27.gif" alt="Coding Animation" width="400">
   </a>
 
-  <!-- Animated Typing Text with Custom Position -->
+  <!-- Animated Typing Text -->
   <p>
     <img src="https://readme-typing-svg.herokuapp.com?lines=Hey+there+%F0%9F%91%8B%2C+I'm+Mir+Faris!;A+responsible+and+stubborn+learner" alt="Typing SVG">
   </p>
@@ -15,17 +15,31 @@
 
 ---
 
-### 👨‍💻 About Me
-- 🔭 **Familiarized Languages**: Java, C#, Dart, JavaScript, C++, PHP, Python
-- 🌱 **Frameworks**: Flutter, Laravel, NestJS, NextJS, FastAPI
-- ⚡ **Development Skills**: App Development, Web Development
-- 📫 **Reach me at**: [mirfaris79@gmail.com](mailto:mirfaris79@gmail.com)
+<!-- Link to Google Fonts -->
+<link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600&display=swap" rel="stylesheet">
 
----
-
-<div align="center">
-  <img alt="Coding Animation" width="400" src="https://i.pinimg.com/originals/f2/4d/44/f24d44a8c2b2dd3e36a572e0ac635a27.gif">
+<div align="center" style="font-family: 'Poppins', sans-serif; color: #c9d1d9; background-color: #0d1117; padding: 20px; border-radius: 8px; width: 60%; box-shadow: 0 4px 15px rgba(13, 140, 217, 0.5);">
+  
+  <h2 style="font-weight: 600; font-size: 24px; color: #58a6ff;">👨‍💻 About Me</h2>
+  
+  <p style="font-weight: 400; font-size: 16px; margin: 5px 0;">
+    <span style="font-weight: 600; color: #58a6ff;">Familiarized Languages:</span> Java, C#, Dart, JavaScript, C++, PHP, Python
+  </p>
+  
+  <p style="font-weight: 400; font-size: 16px; margin: 5px 0;">
+    <span style="font-weight: 600; color: #58a6ff;">Frameworks:</span> Flutter, Laravel, NestJS, NextJS, FastAPI
+  </p>
+  
+  <p style="font-weight: 400; font-size: 16px; margin: 5px 0;">
+    <span style="font-weight: 600; color: #58a6ff;">Development Skills:</span> App Development, Web Development
+  </p>
+  
+  <p style="font-weight: 400; font-size: 16px; margin: 5px 0;">
+    📫 <span style="font-weight: 600; color: #58a6ff;">Contact:</span> <a href="mailto:mirfaris79@gmail.com" style="color: #58a6ff; text-decoration: none;">mirfaris79@gmail.com</a>
+  </p>
+  
 </div>
+
 
 ---
 
@@ -96,10 +110,38 @@
 ---
 
 ### 📊 GitHub Stats
-<div align="center">
-  <!-- Top Languages Card -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FarisHollow&langs_count=10&theme=tokyonight&layout=compact&hide=html" alt="Mir Faris's Most Used Languages">
-
-  <!-- Streak Stats -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=FarisHollow&theme=dark&hide_border=false" alt="GitHub Streak Stats">
+<div align="center" style="padding: 20px;">
+  <table style="
+      border-collapse: separate;
+      border-spacing: 15px;
+      background: #0d1117;
+      padding: 20px;
+      border-radius: 12px;
+      box-shadow: 0 0 20px rgba(13, 140, 217, 0.5);
+    ">
+    <tr>
+      <td style="
+          border: 3px solid #0d8cd9;
+          border-radius: 12px;
+          overflow: hidden;
+          padding: 10px;
+          box-shadow: inset 0 0 10px rgba(13, 140, 217, 0.3);
+        ">
+        <!-- Top Languages Card -->
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FarisHollow&langs_count=10&theme=tokyonight&layout=compact&hide=html" 
+             alt="Mir Faris's Most Used Languages" width="400" height="200" style="display: block; margin: auto;">
+      </td>
+      <td style="
+          border: 3px solid #0d8cd9;
+          border-radius: 12px;
+          overflow: hidden;
+          padding: 10px;
+          box-shadow: inset 0 0 10px rgba(13, 140, 217, 0.3);
+        ">
+        <!-- Streak Stats -->
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=FarisHollow&theme=dark&hide_border=false" 
+             alt="GitHub Streak Stats" width="400" height="200" style="display: block; margin: auto;">
+      </td>
+    </tr>
+  </table>
 </div>
