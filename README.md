@@ -105,9 +105,7 @@
   <a href="https://www.git.org" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/> 
   </a>
-   <a href="https://www.qdrant.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/qdrant/qdrant-original.svg" alt="qdrant" width="40" height="40"/> 
-  </a>
+
 </p>
 
 ---
